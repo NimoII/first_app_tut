@@ -6,3 +6,6 @@ doc/app
 db/*.sqlite3
 *.swp
 *~
+?#*
+#*
+*#
